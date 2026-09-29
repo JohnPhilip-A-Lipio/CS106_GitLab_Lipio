@@ -1,0 +1,4 @@
+Student Name: John Philip A. Lipio
+Student ID: 2025-01-09693
+Section: BSCS 2B
+Course: CS 106 - App Dev
